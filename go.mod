@@ -42,7 +42,7 @@ require (
 	github.com/opencontainers/runc v1.0.0-rc90
 	github.com/opencontainers/runtime-spec v1.0.3-0.20200520003142-237cc4f519e2
 	github.com/opencontainers/runtime-tools v0.9.0
-	github.com/opencontainers/selinux v1.5.2
+	github.com/opencontainers/selinux v1.6.0
 	github.com/openshift/imagebuilder v1.1.6 // indirect
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
